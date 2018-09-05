@@ -1,2 +1,2 @@
-# html-email-signature-template
-A template for creating your own html email signature
+# HTML Email Signature Template
+Here's a free, open-sourced HTML email signature template that I made!
